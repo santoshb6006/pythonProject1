@@ -5,9 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c96d035e-f4c0-42da-ac83-9e095d306e9e" name="Changes" comment="test 2">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/030624/Lab001_Basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/030624/Lab002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/050624/Lab003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/050624/Lab004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/050624/Lab005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/050624/Lab006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/050624/Lab007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/050624/Lab008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/050624/Lab009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/050624/Lab010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/050624/Lab011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/050624/Lab012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/050624/Lab013.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/070624/Advance_data_type.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/070624/Format_String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/070624/Lab_001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/070624/next.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/106024/Lab025.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/106024/Lab033_Program.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex-05062024/Inpt_system" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex-05062024/Input_File.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PYTHON3XA/Ex-05062024/DynamicallyTyped.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex-05062024/DynamicallyTyped.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PYTHON3XA/Ex-05062024/Lab002.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex-05062024/Lab002.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PYTHON3XA/Ex-05062024/Maxof two.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex-05062024/Maxof two.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PYTHON3XA/Ex-05062024/Rules to create variable.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex-05062024/Rules to create variable.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +59,9 @@
     &quot;accountId&quot;: &quot;41986abc-e0f1-4b00-8d71-d541cf8b815b&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/030624/Lab002.py" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -50,10 +76,26 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.Format_String.executor": "Run",
+    "Python.Input_File.executor": "Run",
+    "Python.Lab001.executor": "Run",
     "Python.Lab002.executor": "Run",
+    "Python.Lab003.executor": "Run",
+    "Python.Lab004.executor": "Run",
+    "Python.Lab005.executor": "Run",
+    "Python.Lab006.executor": "Run",
+    "Python.Lab007.executor": "Run",
+    "Python.Lab008.executor": "Run",
+    "Python.Lab009.executor": "Run",
+    "Python.Lab010.executor": "Run",
+    "Python.Lab011.executor": "Run",
+    "Python.Lab012.executor": "Run",
+    "Python.Lab013.executor": "Run",
+    "Python.Lab_001.executor": "Run",
     "Python.Maxof two.executor": "Run",
     "Python.Rules to create variable.executor": "Run",
     "Python.Test_Code.executor": "Run",
+    "Python.next.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -61,6 +103,133 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PycharmProjects\pythonProject" />
+      <recent name="C:\Users\user\PycharmProjects\pythonProject\106024" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Lab013">
+    <configuration name="Lab009" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/050624" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/050624/Lab009.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab010" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/050624" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/050624/Lab010.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab011" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/050624" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/050624/Lab011.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab012" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/050624" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/050624/Lab012.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab013" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/050624" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/050624/Lab013.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Lab013" />
+        <item itemvalue="Python.Lab012" />
+        <item itemvalue="Python.Lab011" />
+        <item itemvalue="Python.Lab010" />
+        <item itemvalue="Python.Lab009" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -109,7 +278,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717555786107</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="test 2">
+      <option name="closed" value="true" />
+      <created>1717604320792</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717604320792</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -117,5 +294,16 @@
     <MESSAGE value="test Push" />
     <MESSAGE value="test 2" />
     <option name="LAST_COMMIT_MESSAGE" value="test 2" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/030624/Lab001_Basic.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
