@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c96d035e-f4c0-42da-ac83-9e095d306e9e" name="Changes" comment="Variable and Data Types">
-      <change afterPath="$PROJECT_DIR$/070624/Lab014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/070624/Lab015.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/070624/Lab016.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/070624/Lab017.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/070624/Lab018.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/070624/Lab019.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/070624/Lab020.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/070624/Lab022.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/070624/Lab023.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/070624/Lab024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/070624/Lab025.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/070624/Lab026_Str_Slicing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/070624/Lab027_StringRev.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/070624/Lab028.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/070624/Lab029_String_toChar_Cov.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/070624/Lab030_Real_Imag.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/070624/Lab031_UserInput.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/070624/Lab032_Real_ImagNum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/070624/Lab033.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/070624/Lab034_String_Slice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/070624/Lab21.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c96d035e-f4c0-42da-ac83-9e095d306e9e" name="Changes" comment="String and others" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -311,7 +288,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718009883037</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="String and others">
+      <option name="closed" value="true" />
+      <created>1718041647132</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1718041647132</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -319,7 +304,8 @@
     <MESSAGE value="test Push" />
     <MESSAGE value="test 2" />
     <MESSAGE value="Variable and Data Types" />
-    <option name="LAST_COMMIT_MESSAGE" value="Variable and Data Types" />
+    <MESSAGE value="String and others" />
+    <option name="LAST_COMMIT_MESSAGE" value="String and others" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
