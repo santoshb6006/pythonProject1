@@ -55,8 +55,11 @@ a=10
 b=89
 print(a is b)
 print(a is not b)
-
 my_list=[1,2,3,4,5,6,7,8,9]
 my_list1=[5,6,6,8,4,8,3,7,6,8,4]
-
 print(my_list is my_list1)
+print(my_list is not my_list1)
+
+# Is which case it will be useful
+# mostly used with the conditions
+
