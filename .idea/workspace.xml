@@ -4,11 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c96d035e-f4c0-42da-ac83-9e095d306e9e" name="Changes" comment="String and others">
-      <change afterPath="$PROJECT_DIR$/106024/Lab039.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/106024/Lab40.py" afterDir="false" />
+    <list default="true" id="c96d035e-f4c0-42da-ac83-9e095d306e9e" name="Changes" comment="Operators">
+      <change afterPath="$PROJECT_DIR$/120624/Lab047.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/120624/Lab048_find Max.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/120624/Lab049_area_Circle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/120624/Lab050.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/120624/Lab051.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/120624/Lab052.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/120624/Lab053.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/120624/Lab_054.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/120624/Task_#2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/120624/Task_triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/140624/Lab047.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/140624/Lab048.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/190624/Function_inner_Outer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/210624/Lab_.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/106024/Lab038.py" beforeDir="false" afterPath="$PROJECT_DIR$/106024/Lab038.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/120624/Lab044.py" beforeDir="false" afterPath="$PROJECT_DIR$/120624/Lab044.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/120624/Lab045.py" beforeDir="false" afterPath="$PROJECT_DIR$/120624/Lab045.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/120624/Lab35_While_Loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/120624/Lab46_While_Loop.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +69,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.Format_String.executor": "Run",
+    "Python.Function_inner_Outer.executor": "Run",
     "Python.Input_File.executor": "Run",
     "Python.Lab001.executor": "Run",
     "Python.Lab002.executor": "Run",
@@ -94,12 +109,34 @@
     "Python.Lab037.executor": "Run",
     "Python.Lab038.executor": "Run",
     "Python.Lab039.executor": "Run",
+    "Python.Lab041.executor": "Run",
+    "Python.Lab042.executor": "Run",
+    "Python.Lab043.executor": "Run",
+    "Python.Lab044.executor": "Run",
+    "Python.Lab045.executor": "Debug",
+    "Python.Lab047 (1).executor": "Run",
+    "Python.Lab047.executor": "Run",
+    "Python.Lab048.executor": "Run",
+    "Python.Lab048_find Max.executor": "Run",
+    "Python.Lab049_area_Circle.executor": "Run",
+    "Python.Lab050.executor": "Run",
+    "Python.Lab051.executor": "Run",
+    "Python.Lab052.executor": "Run",
     "Python.Lab21.executor": "Run",
     "Python.Lab35_While_Loop.executor": "Run",
     "Python.Lab40.executor": "Run",
+    "Python.Lab46_While_Loop.executor": "Run",
+    "Python.Lab_.executor": "Run",
     "Python.Lab_001.executor": "Run",
+    "Python.Lab_054.executor": "Run",
+    "Python.Lab_Leap.executor": "Run",
     "Python.Maxof two.executor": "Run",
     "Python.Rules to create variable.executor": "Run",
+    "Python.Task_#2.executor": "Run",
+    "Python.Task_1.executor": "Run",
+    "Python.Task_1Program.executor": "Run",
+    "Python.Task_2.executor": "Run",
+    "Python.Task_triangle (1).executor": "Run",
     "Python.Test_Code.executor": "Run",
     "Python.next.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -115,8 +152,8 @@
       <recent name="C:\Users\user\PycharmProjects\pythonProject\106024" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab40">
-    <configuration name="Lab036" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab_054">
+    <configuration name="Lab051" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -125,11 +162,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/106024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/120624" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/106024/Lab036.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/120624/Lab051.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +175,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab037" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab_054" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,11 +184,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/106024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/120624" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/106024/Lab037.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/120624/Lab_054.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,7 +197,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab038" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task_#2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,11 +206,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/106024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/120624" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/106024/Lab038.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/120624/Task_#2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,7 +219,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab039" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task_triangle (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -191,11 +228,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/106024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/120624" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/106024/Lab039.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/120624/Task_triangle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,7 +241,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab40" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task_triangle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -213,11 +250,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/106024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/120624" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/106024/Lab40.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\user\PycharmProjects\pythonProject\120624\Task_triangle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -228,11 +265,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab40" />
-        <item itemvalue="Python.Lab039" />
-        <item itemvalue="Python.Lab038" />
-        <item itemvalue="Python.Lab037" />
-        <item itemvalue="Python.Lab036" />
+        <item itemvalue="Python.Lab_054" />
+        <item itemvalue="Python.Task_triangle (1)" />
+        <item itemvalue="Python.Task_triangle" />
+        <item itemvalue="Python.Task_#2" />
+        <item itemvalue="Python.Lab051" />
       </list>
     </recent_temporary>
   </component>
@@ -324,7 +361,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718214484193</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Operators">
+      <option name="closed" value="true" />
+      <created>1718301857493</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1718301857493</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -333,7 +378,8 @@
     <MESSAGE value="test 2" />
     <MESSAGE value="Variable and Data Types" />
     <MESSAGE value="String and others" />
-    <option name="LAST_COMMIT_MESSAGE" value="String and others" />
+    <MESSAGE value="Operators" />
+    <option name="LAST_COMMIT_MESSAGE" value="Operators" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

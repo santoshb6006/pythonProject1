@@ -1,17 +1,6 @@
-# i=0
-# while i < 5:
-#     print(i)
-#     i += 1
-# year = int(input("Enter your year \n"))
-#
-# if year % 4 == 0:
-#     if year % 100 == 0:
-#         if year % 400 == 0:
-#             print(" Yes Its a Leap Year :", year)
-# else:
-#     print("Its not a leap year putta", year)
+# Write a script to find the leap year
+#2
 year = int(input("Enter your year: "))
-
 if year % 4 == 0:
     if year % 100 == 0:
         if year % 400 == 0:
