@@ -14,5 +14,5 @@ side2 = float(input("Size for Side 2\n"))
 side3 = float(input("Size for Side 3\n"))
 
 find_trianglestype(side1, side2, side3)
-find_trianglestype(85, 56, 85)
-find_trianglestype(58, 56, 85)
+# find_trianglestype(85, 56, 85)
+# find_trianglestype(58, 56, 85)
