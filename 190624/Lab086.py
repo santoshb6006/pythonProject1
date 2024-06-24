@@ -15,7 +15,7 @@ print(full)
 my_list1=my_list.copy()
 print(my_list1)
 my_list1.extend(my_list2)
-my_list2.reverse()
+my_list2.reverse()# Reverse order
 print(my_list2)
 print(my_list1)
 print("Clear")

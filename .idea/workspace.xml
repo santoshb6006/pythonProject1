@@ -5,46 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c96d035e-f4c0-42da-ac83-9e095d306e9e" name="Changes" comment="Operators">
-      <change afterPath="$PROJECT_DIR$/120624/Lab_Fib_whileloop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/120624/Task_Fact.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/120624/Task_Fibonacci.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/140624/Lab057.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/140624/Lab058.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/140624/Lab059.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/140624/Lab060.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/140624/Lab061.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/140624/Lab062.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/140624/Lab063.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/140624/Lab064.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/140624/Lab065.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/140624/Lab066.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/140624/Lab067.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/170624/Lab068.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/170624/Lab069.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/170624/Lab070.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/170624/Lab071.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/170624/Lab072.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/170624/Lab073.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/170624/Lab074.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/170624/Lab075.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/170624/Lab076.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/170624/Lab077.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/190624/Lab078.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/190624/Lab079.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/190624/Lab080.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/190624/Lab081.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/190624/Lab082.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/190624/Lab083.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/190624/Lab084.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/190624/Lab085.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/190624/Lab086.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/190624/Lab087.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/190624/Lab088.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/190624/Lab089.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/190624/Lab090.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/210624/Lab092.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/210624/Lab093.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/240624/Lab10.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/120624/Lab_054.py" beforeDir="false" afterPath="$PROJECT_DIR$/120624/Lab054.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/120624/Task_triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/120624/Task_triangle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/140624/Lab047.py" beforeDir="false" afterPath="$PROJECT_DIR$/140624/Lab055.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/140624/Lab048.py" beforeDir="false" afterPath="$PROJECT_DIR$/140624/Lab056.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/190624/Function_inner_Outer.py" beforeDir="false" afterPath="$PROJECT_DIR$/190624/Function_inner_Outer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/190624/Lab086.py" beforeDir="false" afterPath="$PROJECT_DIR$/190624/Lab086.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/190624/Lab087.py" beforeDir="false" afterPath="$PROJECT_DIR$/190624/Lab087.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/210624/Lab_.py" beforeDir="false" afterPath="$PROJECT_DIR$/210624/Lab091.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,6 +145,13 @@
     "Python.Lab084.executor": "Run",
     "Python.Lab085.executor": "Run",
     "Python.Lab086.executor": "Run",
+    "Python.Lab087.executor": "Run",
+    "Python.Lab088.executor": "Run",
+    "Python.Lab089.executor": "Run",
+    "Python.Lab090.executor": "Run",
+    "Python.Lab091.executor": "Run",
+    "Python.Lab092.executor": "Run",
+    "Python.Lab093.executor": "Run",
     "Python.Lab21.executor": "Run",
     "Python.Lab35_While_Loop.executor": "Run",
     "Python.Lab40.executor": "Run",
@@ -209,8 +186,8 @@
       <recent name="C:\Users\user\PycharmProjects\pythonProject\106024" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab086">
-    <configuration name="Lab082" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab093">
+    <configuration name="Lab089" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -223,7 +200,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190624/Lab082.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190624/Lab089.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -232,7 +209,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab083" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab090" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -245,7 +222,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190624/Lab083.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190624/Lab090.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -254,7 +231,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab084" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab091" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -263,11 +240,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190624" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/210624" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190624/Lab084.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/210624/Lab091.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -276,7 +253,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab085" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab092" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -285,11 +262,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190624" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/210624" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190624/Lab085.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/210624/Lab092.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -298,7 +275,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab086" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab093" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -307,11 +284,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190624" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/210624" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190624/Lab086.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/210624/Lab093.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -322,11 +299,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab086" />
-        <item itemvalue="Python.Lab085" />
-        <item itemvalue="Python.Lab084" />
-        <item itemvalue="Python.Lab083" />
-        <item itemvalue="Python.Lab082" />
+        <item itemvalue="Python.Lab093" />
+        <item itemvalue="Python.Lab092" />
+        <item itemvalue="Python.Lab091" />
+        <item itemvalue="Python.Lab090" />
+        <item itemvalue="Python.Lab089" />
       </list>
     </recent_temporary>
   </component>
