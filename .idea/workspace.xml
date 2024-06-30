@@ -5,16 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c96d035e-f4c0-42da-ac83-9e095d306e9e" name="Changes" comment="Operators">
-      <change afterPath="$PROJECT_DIR$/190624/Lab088.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/190624/Lab089.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/190624/Lab090.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/210624/Lab092.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/210624/Lab093.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/240624/Lab10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/210624/Lab094.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/210624/Lab095.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/210624/Lab096.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/210624/Lab097.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/210624/Lab098.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/210624/Lab099.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/210624/Lab100.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/210624/Lab101.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/210624/Lab102.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/210624/Lab103.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/210624/Lab104.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/210624/Lab105.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/210624/Lab106.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/210624/Lab107.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/210624/Lab108_type conersion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/210624/Lab109.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/210624/Lab110.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/210624/Task_Anagram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/210624/Task_CountVowels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/210624/Task_Palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/210624/Task_Right_triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/210624/Task_String_Reverse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/260624/Lab_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/260624/Lab_oops.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/190624/Lab086.py" beforeDir="false" afterPath="$PROJECT_DIR$/190624/Lab086.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/190624/Lab087.py" beforeDir="false" afterPath="$PROJECT_DIR$/190624/Lab087.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/210624/Lab_.py" beforeDir="false" afterPath="$PROJECT_DIR$/210624/Lab091.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,6 +167,23 @@
     "Python.Lab091.executor": "Run",
     "Python.Lab092.executor": "Run",
     "Python.Lab093.executor": "Run",
+    "Python.Lab094.executor": "Run",
+    "Python.Lab095.executor": "Run",
+    "Python.Lab096.executor": "Run",
+    "Python.Lab097.executor": "Run",
+    "Python.Lab098.executor": "Run",
+    "Python.Lab099.executor": "Run",
+    "Python.Lab100.executor": "Run",
+    "Python.Lab101.executor": "Run",
+    "Python.Lab102.executor": "Run",
+    "Python.Lab103.executor": "Run",
+    "Python.Lab104.executor": "Run",
+    "Python.Lab105.executor": "Run",
+    "Python.Lab106.executor": "Run",
+    "Python.Lab107.executor": "Run",
+    "Python.Lab108_type conersion.executor": "Run",
+    "Python.Lab109.executor": "Run",
+    "Python.Lab110.executor": "Run",
     "Python.Lab21.executor": "Run",
     "Python.Lab35_While_Loop.executor": "Run",
     "Python.Lab40.executor": "Run",
@@ -162,14 +194,23 @@
     "Python.Lab_054.executor": "Run",
     "Python.Lab_Fib_whileloop.executor": "Run",
     "Python.Lab_Leap.executor": "Run",
+    "Python.Lab_class.executor": "Run",
     "Python.Maxof two.executor": "Run",
     "Python.Rules to create variable.executor": "Run",
     "Python.Task_#2.executor": "Run",
     "Python.Task_1.executor": "Run",
     "Python.Task_1Program.executor": "Run",
     "Python.Task_2.executor": "Run",
+    "Python.Task_Anagram.executor": "Run",
+    "Python.Task_CountVowels.executor": "Run",
     "Python.Task_Fact.executor": "Run",
     "Python.Task_Fibonacci.executor": "Run",
+    "Python.Task_Palidrome.executor": "Run",
+    "Python.Task_Palindrome (1).executor": "Run",
+    "Python.Task_Right_Left_triangle (1).executor": "Run",
+    "Python.Task_Right_triangle (1).executor": "Run",
+    "Python.Task_Rightringle.executor": "Run",
+    "Python.Task_String_Reverse.executor": "Run",
     "Python.Task_triangle (1).executor": "Run",
     "Python.Test_Code.executor": "Run",
     "Python.next.executor": "Run",
@@ -186,52 +227,8 @@
       <recent name="C:\Users\user\PycharmProjects\pythonProject\106024" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab093">
-    <configuration name="Lab089" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190624" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190624/Lab089.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab090" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190624" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190624/Lab090.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab091" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Task_Anagram">
+    <configuration name="Task_Anagram" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -244,7 +241,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/210624/Lab091.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/210624/Task_Anagram.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -253,7 +250,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab092" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task_CountVowels" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -266,7 +263,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/210624/Lab092.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/210624/Task_CountVowels.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -275,7 +272,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab093" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task_Palindrome (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -288,7 +285,73 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/210624/Lab093.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/210624/Task_Palindrome.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Task_Right_triangle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/210624" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\user\PycharmProjects\pythonProject\210624\Task_Right_triangle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Task_Right_triangle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/210624" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\user\PycharmProjects\pythonProject\210624\Task_Right_triangle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Task_String_Reverse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/210624" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/210624/Task_String_Reverse.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -299,11 +362,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab093" />
-        <item itemvalue="Python.Lab092" />
-        <item itemvalue="Python.Lab091" />
-        <item itemvalue="Python.Lab090" />
-        <item itemvalue="Python.Lab089" />
+        <item itemvalue="Python.Task_Anagram" />
+        <item itemvalue="Python.Task_CountVowels" />
+        <item itemvalue="Python.Task_String_Reverse" />
+        <item itemvalue="Python.Task_Palindrome (1)" />
+        <item itemvalue="Python.Task_Right_triangle" />
       </list>
     </recent_temporary>
   </component>
@@ -511,6 +574,16 @@
           <url>file://$PROJECT_DIR$/190624/Lab080.py</url>
           <line>12</line>
           <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/260624/Lab_class.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/210624/Task_CountVowels.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
