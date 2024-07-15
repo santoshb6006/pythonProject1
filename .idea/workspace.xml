@@ -4,32 +4,188 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c96d035e-f4c0-42da-ac83-9e095d306e9e" name="Changes" comment="Operators">
-      <change afterPath="$PROJECT_DIR$/210624/Lab094.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/210624/Lab095.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/210624/Lab096.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/210624/Lab097.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/210624/Lab098.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/210624/Lab099.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/210624/Lab100.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/210624/Lab101.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/210624/Lab102.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/210624/Lab103.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/210624/Lab104.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/210624/Lab105.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/210624/Lab106.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/210624/Lab107.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/210624/Lab108_type conersion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/210624/Lab109.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/210624/Lab110.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/210624/Task_Anagram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/210624/Task_CountVowels.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/210624/Task_Palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/210624/Task_Right_triangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/210624/Task_String_Reverse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/260624/Lab_class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/260624/Lab_oops.py" afterDir="false" />
+    <list default="true" id="c96d035e-f4c0-42da-ac83-9e095d306e9e" name="Changes" comment="Dict and tasks on strings">
+      <change afterPath="$PROJECT_DIR$/July/010724/Abstraction_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/010724/Abstraction_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/010724/File_import.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/010724/Hierarchical_Inheritance1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/010724/Hybrid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/010724/Inheritance2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/010724/Method_Overloading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/010724/Multilevel_Inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/010724/Multiple_Inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/010724/Polymorphism_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/010724/Polymorphism_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/010724/Single_Inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/010724/santu.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/030724/Exception_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/030724/Exception_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/030724/Exception_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/030724/Exception_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/030724/santu.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/June/240624/Lab111.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/June/240624/Lab112.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/June/240624/Lab113.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/June/240624/Lab114.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/June/240624/Lab115.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/June/240624/Lab116.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/June/240624/Lab117.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/June/240624/Lab118_Even_fliter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/June/240624/Lab119_Map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/June/240624/Lab120_Recursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/June/240624/Lab120_Recusion_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/June/240624/Lab121_Recusrion3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/June/260624/Lab124.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/June/260624/Lab125.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/June/260624/Lab126_Calsi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/June/260624/Lab127.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/June/260624/Lab_122_OOPs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/June/280624/Lab128.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/June/280624/Lab129.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/June/280624/Lab130_Constructor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/June/280624/Lab131.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/June/280624/Lab132.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/June/280624/Lab133.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/June/280624/Lab134.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/June/Ex-05062024/Inpt_system" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/030624/Lab001_Basic.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/030624/Lab001_Basic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/030624/Lab002.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/030624/Lab002.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/050624/Lab003.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/050624/Lab003.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/050624/Lab004.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/050624/Lab004.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/050624/Lab005.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/050624/Lab005.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/050624/Lab006.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/050624/Lab006.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/050624/Lab007.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/050624/Lab007.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/050624/Lab008.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/050624/Lab008.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/050624/Lab009.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/050624/Lab009.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/050624/Lab010.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/050624/Lab010.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/050624/Lab011.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/050624/Lab011.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/050624/Lab012.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/050624/Lab012.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/050624/Lab013.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/050624/Lab013.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/070624/Advance_data_type.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/070624/Advance_data_type.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/070624/Format_String.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/070624/Format_String.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/070624/Lab014.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/070624/Lab014.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/070624/Lab015.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/070624/Lab015.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/070624/Lab016.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/070624/Lab016.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/070624/Lab017.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/070624/Lab017.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/070624/Lab018.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/070624/Lab018.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/070624/Lab019.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/070624/Lab019.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/070624/Lab020.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/070624/Lab020.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/070624/Lab022.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/070624/Lab022.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/070624/Lab023.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/070624/Lab023.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/070624/Lab024.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/070624/Lab024.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/070624/Lab025.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/070624/Lab025.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/070624/Lab026_Str_Slicing.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/070624/Lab026_Str_Slicing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/070624/Lab027_StringRev.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/070624/Lab027_StringRev.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/070624/Lab028.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/070624/Lab028.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/070624/Lab029_String_toChar_Cov.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/070624/Lab029_String_toChar_Cov.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/070624/Lab030_Real_Imag.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/070624/Lab030_Real_Imag.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/070624/Lab031_UserInput.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/070624/Lab031_UserInput.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/070624/Lab032_Real_ImagNum.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/070624/Lab032_Real_ImagNum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/070624/Lab033.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/070624/Lab033.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/070624/Lab034_String_Slice.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/070624/Lab034_String_Slice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/070624/Lab21.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/070624/Lab21.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/070624/Lab_001.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/070624/Lab_001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/070624/next.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/070624/next.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/106024/Lab035.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/106024/Lab035.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/106024/Lab036.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/106024/Lab036.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/106024/Lab037.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/106024/Lab037.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/106024/Lab038.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/106024/Lab038.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/106024/Lab039.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/106024/Lab039.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/106024/Lab041.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/106024/Lab041.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/106024/Lab042.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/106024/Lab042.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/106024/Lab043.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/106024/Lab043.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/106024/Lab40.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/106024/Lab40.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/106024/Task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/106024/Task_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/106024/Task_1Program.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/106024/Task_1Program.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/106024/Task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/106024/Task_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/120624/Lab044.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/120624/Lab044.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/120624/Lab045.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/120624/Lab045.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/120624/Lab047.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/120624/Lab047.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/120624/Lab048_find Max.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/120624/Lab048_find Max.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/120624/Lab049_area_Circle.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/120624/Lab049_area_Circle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/120624/Lab050.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/120624/Lab050.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/120624/Lab051.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/120624/Lab051.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/120624/Lab052.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/120624/Lab052.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/120624/Lab053.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/120624/Lab053.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/120624/Lab054.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/120624/Lab054.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/120624/Lab46_While_Loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/120624/Lab46_While_Loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/120624/Lab_Fib_whileloop.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/120624/Lab_Fib_whileloop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/120624/Task_#2.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/120624/Task_#2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/120624/Task_Fact.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/120624/Task_Fact.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/120624/Task_Fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/120624/Task_Fibonacci.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/120624/Task_triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/120624/Task_triangle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/140624/Lab055.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/140624/Lab055.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/140624/Lab056.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/140624/Lab056.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/140624/Lab057.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/140624/Lab057.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/140624/Lab058.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/140624/Lab058.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/140624/Lab059.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/140624/Lab059.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/140624/Lab060.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/140624/Lab060.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/140624/Lab061.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/140624/Lab061.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/140624/Lab062.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/140624/Lab062.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/140624/Lab063.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/140624/Lab063.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/140624/Lab064.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/140624/Lab064.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/140624/Lab065.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/140624/Lab065.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/140624/Lab066.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/140624/Lab066.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/140624/Lab067.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/140624/Lab067.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/170624/Lab068.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/170624/Lab068.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/170624/Lab069.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/170624/Lab069.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/170624/Lab070.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/170624/Lab070.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/170624/Lab071.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/170624/Lab071.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/170624/Lab072.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/170624/Lab072.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/170624/Lab073.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/170624/Lab073.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/170624/Lab074.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/170624/Lab074.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/170624/Lab075.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/170624/Lab075.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/170624/Lab076.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/170624/Lab076.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/170624/Lab077.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/170624/Lab077.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/190624/Function_inner_Outer.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/190624/Function_inner_Outer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/190624/Lab078.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/190624/Lab078.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/190624/Lab079.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/190624/Lab079.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/190624/Lab080.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/190624/Lab080.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/190624/Lab081.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/190624/Lab081.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/190624/Lab082.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/190624/Lab082.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/190624/Lab083.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/190624/Lab083.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/190624/Lab084.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/190624/Lab084.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/190624/Lab085.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/190624/Lab085.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/190624/Lab086.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/190624/Lab086.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/190624/Lab087.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/190624/Lab087.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/190624/Lab088.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/190624/Lab088.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/190624/Lab089.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/190624/Lab089.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/190624/Lab090.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/190624/Lab090.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/210624/Lab091.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/210624/Lab091.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/210624/Lab092.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/210624/Lab092.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/210624/Lab093.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/210624/Lab093.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/210624/Lab094.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/210624/Lab094.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/210624/Lab095.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/210624/Lab095.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/210624/Lab096.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/210624/Lab096.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/210624/Lab097.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/210624/Lab097.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/210624/Lab098.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/210624/Lab098.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/210624/Lab099.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/210624/Lab099.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/210624/Lab100.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/210624/Lab100.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/210624/Lab101.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/210624/Lab101.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/210624/Lab102.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/210624/Lab102.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/210624/Lab103.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/210624/Lab103.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/210624/Lab104.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/210624/Lab104.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/210624/Lab105.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/210624/Lab105.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/210624/Lab106.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/210624/Lab106.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/210624/Lab107.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/210624/Lab107.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/210624/Lab108_type conersion.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/210624/Lab108_type conersion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/210624/Lab109.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/210624/Lab109.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/210624/Lab110.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/210624/Lab110.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/210624/Task_Anagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/210624/Task_Anagram.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/210624/Task_CountVowels.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/210624/Task_CountVowels.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/210624/Task_Palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/210624/Task_Palindrome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/210624/Task_Right_triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/210624/Task_Right_triangle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/210624/Task_String_Reverse.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/210624/Task_String_Reverse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/240624/Lab10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/260624/Lab_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/260624/Lab_123_class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/260624/Lab_oops.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/260624/Lab_oops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex-05062024/DynamicallyTyped.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/Ex-05062024/DynamicallyTyped.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex-05062024/Inpt_system" beforeDir="false" afterPath="$PROJECT_DIR$/July/010724/Abstraction_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex-05062024/Input_File.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/Ex-05062024/Input_File.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex-05062024/Lab002.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/Ex-05062024/Lab002.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex-05062024/Maxof two.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/Ex-05062024/Maxof two.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex-05062024/Rules to create variable.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/Ex-05062024/Rules to create variable.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,163 +228,208 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.Format_String.executor": "Run",
-    "Python.Function_inner_Outer.executor": "Run",
-    "Python.Input_File.executor": "Run",
-    "Python.Lab001.executor": "Run",
-    "Python.Lab002.executor": "Run",
-    "Python.Lab003.executor": "Run",
-    "Python.Lab004.executor": "Run",
-    "Python.Lab005.executor": "Run",
-    "Python.Lab006.executor": "Run",
-    "Python.Lab007.executor": "Run",
-    "Python.Lab008.executor": "Run",
-    "Python.Lab009.executor": "Run",
-    "Python.Lab010.executor": "Run",
-    "Python.Lab011.executor": "Run",
-    "Python.Lab012.executor": "Run",
-    "Python.Lab013.executor": "Run",
-    "Python.Lab014.executor": "Run",
-    "Python.Lab015.executor": "Run",
-    "Python.Lab016.executor": "Run",
-    "Python.Lab017.executor": "Run",
-    "Python.Lab018.executor": "Run",
-    "Python.Lab019.executor": "Run",
-    "Python.Lab020.executor": "Run",
-    "Python.Lab022.executor": "Run",
-    "Python.Lab023.executor": "Run",
-    "Python.Lab024.executor": "Run",
-    "Python.Lab025.executor": "Run",
-    "Python.Lab026_Str_Slicing.executor": "Run",
-    "Python.Lab027_StringRev.executor": "Run",
-    "Python.Lab028.executor": "Run",
-    "Python.Lab029_String_toChar_Cov.executor": "Run",
-    "Python.Lab030_Real_Imag.executor": "Run",
-    "Python.Lab031_UserInput.executor": "Run",
-    "Python.Lab032_Real_ImagNum.executor": "Run",
-    "Python.Lab033.executor": "Run",
-    "Python.Lab034_String_Slice.executor": "Run",
-    "Python.Lab035.executor": "Run",
-    "Python.Lab036.executor": "Run",
-    "Python.Lab037.executor": "Run",
-    "Python.Lab038.executor": "Run",
-    "Python.Lab039.executor": "Run",
-    "Python.Lab041.executor": "Run",
-    "Python.Lab042.executor": "Run",
-    "Python.Lab043.executor": "Run",
-    "Python.Lab044.executor": "Run",
-    "Python.Lab045.executor": "Debug",
-    "Python.Lab047 (1).executor": "Run",
-    "Python.Lab047.executor": "Run",
-    "Python.Lab048.executor": "Run",
-    "Python.Lab048_find Max.executor": "Run",
-    "Python.Lab049_area_Circle.executor": "Run",
-    "Python.Lab050.executor": "Run",
-    "Python.Lab051.executor": "Run",
-    "Python.Lab052.executor": "Run",
-    "Python.Lab055.executor": "Run",
-    "Python.Lab056.executor": "Run",
-    "Python.Lab057.executor": "Run",
-    "Python.Lab058.executor": "Run",
-    "Python.Lab059.executor": "Run",
-    "Python.Lab060.executor": "Run",
-    "Python.Lab061.executor": "Run",
-    "Python.Lab062.executor": "Run",
-    "Python.Lab063.executor": "Run",
-    "Python.Lab064.executor": "Run",
-    "Python.Lab065.executor": "Run",
-    "Python.Lab066.executor": "Run",
-    "Python.Lab067.executor": "Run",
-    "Python.Lab068.executor": "Run",
-    "Python.Lab069.executor": "Run",
-    "Python.Lab070.executor": "Run",
-    "Python.Lab072.executor": "Run",
-    "Python.Lab073.executor": "Run",
-    "Python.Lab074.executor": "Run",
-    "Python.Lab075.executor": "Run",
-    "Python.Lab076.executor": "Run",
-    "Python.Lab077.executor": "Run",
-    "Python.Lab078.executor": "Run",
-    "Python.Lab079.executor": "Run",
-    "Python.Lab080.executor": "Run",
-    "Python.Lab081.executor": "Run",
-    "Python.Lab082.executor": "Run",
-    "Python.Lab083.executor": "Run",
-    "Python.Lab084.executor": "Run",
-    "Python.Lab085.executor": "Run",
-    "Python.Lab086.executor": "Run",
-    "Python.Lab087.executor": "Run",
-    "Python.Lab088.executor": "Run",
-    "Python.Lab089.executor": "Run",
-    "Python.Lab090.executor": "Run",
-    "Python.Lab091.executor": "Run",
-    "Python.Lab092.executor": "Run",
-    "Python.Lab093.executor": "Run",
-    "Python.Lab094.executor": "Run",
-    "Python.Lab095.executor": "Run",
-    "Python.Lab096.executor": "Run",
-    "Python.Lab097.executor": "Run",
-    "Python.Lab098.executor": "Run",
-    "Python.Lab099.executor": "Run",
-    "Python.Lab100.executor": "Run",
-    "Python.Lab101.executor": "Run",
-    "Python.Lab102.executor": "Run",
-    "Python.Lab103.executor": "Run",
-    "Python.Lab104.executor": "Run",
-    "Python.Lab105.executor": "Run",
-    "Python.Lab106.executor": "Run",
-    "Python.Lab107.executor": "Run",
-    "Python.Lab108_type conersion.executor": "Run",
-    "Python.Lab109.executor": "Run",
-    "Python.Lab110.executor": "Run",
-    "Python.Lab21.executor": "Run",
-    "Python.Lab35_While_Loop.executor": "Run",
-    "Python.Lab40.executor": "Run",
-    "Python.Lab46_While_Loop.executor": "Run",
-    "Python.Lab71.executor": "Run",
-    "Python.Lab_.executor": "Run",
-    "Python.Lab_001.executor": "Run",
-    "Python.Lab_054.executor": "Run",
-    "Python.Lab_Fib_whileloop.executor": "Run",
-    "Python.Lab_Leap.executor": "Run",
-    "Python.Lab_class.executor": "Run",
-    "Python.Maxof two.executor": "Run",
-    "Python.Rules to create variable.executor": "Run",
-    "Python.Task_#2.executor": "Run",
-    "Python.Task_1.executor": "Run",
-    "Python.Task_1Program.executor": "Run",
-    "Python.Task_2.executor": "Run",
-    "Python.Task_Anagram.executor": "Run",
-    "Python.Task_CountVowels.executor": "Run",
-    "Python.Task_Fact.executor": "Run",
-    "Python.Task_Fibonacci.executor": "Run",
-    "Python.Task_Palidrome.executor": "Run",
-    "Python.Task_Palindrome (1).executor": "Run",
-    "Python.Task_Right_Left_triangle (1).executor": "Run",
-    "Python.Task_Right_triangle (1).executor": "Run",
-    "Python.Task_Rightringle.executor": "Run",
-    "Python.Task_String_Reverse.executor": "Run",
-    "Python.Task_triangle (1).executor": "Run",
-    "Python.Test_Code.executor": "Run",
-    "Python.next.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.Abstraction_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Abstraction_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Abstraction_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exception_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exception_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exception_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exception_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.File_import.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Format_String.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Function_inner_Outer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Hierarchical_Inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Hierarchical_Inheritance1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Hybrid (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Inheritance2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Input_File.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab006.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab007.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab008.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab009.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab010.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab011.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab012.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab013.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab014.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab015.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab016.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab017.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab018.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab019.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab020.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab022.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab023.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab024.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab025.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab026_Str_Slicing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab027_StringRev.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab028.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab029_String_toChar_Cov.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab030_Real_Imag.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab031_UserInput.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab032_Real_ImagNum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab033.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab034_String_Slice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab035.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab036.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab037.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab038.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab039.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab041.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab042.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab043.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab044.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab045.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Lab047 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab047.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab048.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab048_find Max.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab049_area_Circle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab050.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab051.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab052.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab055.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab056.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab057.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab058.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab059.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab060.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab061.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab062.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab063.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab064.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab065.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab066.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab067.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab068.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab069.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab070.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab072.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab073.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab074.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab075.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab076.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab077.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab078.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab079.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab080.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab081.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab082.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab083.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab084.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab085.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab086.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab087.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab088.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab089.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab090.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab091.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab092.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab093.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab094.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab095.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab096.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab097.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab098.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab099.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab100.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab101.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab102.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab103.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab104.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab105.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab106.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab107.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab108_type conersion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab109.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab110.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab111.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab112.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab113.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab114.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab115.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab116.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab117.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab118_Even_fliter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab119_Map.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab120_Recursion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab120_Recusion_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab121_Recusrion3.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Lab124.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab125.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab126_Calsi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab127.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab128.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab129.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab130.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab131.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab132.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab133.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab21.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab35_While_Loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab40.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab46_While_Loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab71.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_054.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_122_class.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_123_class (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_Fib_whileloop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_Leap.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_class.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Maxof two.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Method_Overloading.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Multilevel_Inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Multiple_Inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Polymorphism_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Polymorphism_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Rules to create variable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_#2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_1Program.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_Anagram.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_CountVowels.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_Fact.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_Palidrome.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_Palindrome (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_Right_Left_triangle (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_Right_triangle (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_Rightringle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_String_Reverse.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_triangle (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Test_Code.executor&quot;: &quot;Run&quot;,
+    &quot;Python.next.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PycharmProjects\pythonProject\July\030724" />
+      <recent name="C:\Users\user\PycharmProjects\pythonProject\June" />
+      <recent name="C:\Users\user\PycharmProjects\pythonProject\July" />
       <recent name="C:\Users\user\PycharmProjects\pythonProject" />
       <recent name="C:\Users\user\PycharmProjects\pythonProject\106024" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Task_Anagram">
-    <configuration name="Task_Anagram" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab133">
+    <configuration name="Lab129" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -237,11 +438,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/210624" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/June/280624" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/210624/Task_Anagram.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/June/280624/Lab129.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -250,7 +451,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task_CountVowels" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab130_Constructor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -259,11 +460,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/210624" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/June/280624" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/210624/Task_CountVowels.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\user\PycharmProjects\pythonProject\June\280624\Lab130_Constructor.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -272,7 +473,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task_Palindrome (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab131" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -281,11 +482,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/210624" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/June/280624" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/210624/Task_Palindrome.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/June/280624/Lab131.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -294,7 +495,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task_Right_triangle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab132" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -303,11 +504,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/210624" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/June/280624" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\user\PycharmProjects\pythonProject\210624\Task_Right_triangle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/June/280624/Lab132.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -316,7 +517,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task_Right_triangle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab133" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -325,33 +526,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/210624" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/June/280624" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\user\PycharmProjects\pythonProject\210624\Task_Right_triangle.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Task_String_Reverse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/210624" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/210624/Task_String_Reverse.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/June/280624/Lab133.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -362,11 +541,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Task_Anagram" />
-        <item itemvalue="Python.Task_CountVowels" />
-        <item itemvalue="Python.Task_String_Reverse" />
-        <item itemvalue="Python.Task_Palindrome (1)" />
-        <item itemvalue="Python.Task_Right_triangle" />
+        <item itemvalue="Python.Lab133" />
+        <item itemvalue="Python.Lab132" />
+        <item itemvalue="Python.Lab131" />
+        <item itemvalue="Python.Lab130_Constructor" />
+        <item itemvalue="Python.Lab129" />
       </list>
     </recent_temporary>
   </component>
@@ -466,7 +645,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718301857493</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Operators">
+      <option name="closed" value="true" />
+      <created>1719747957223</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1719747957223</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -482,108 +669,152 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/030624/Lab001_Basic.py</url>
+          <url>file://$PROJECT_DIR$/June/030624/Lab001_Basic.py</url>
           <line>6</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/070624/Lab029_String_toChar_Cov.py</url>
+          <url>file://$PROJECT_DIR$/June/070624/Lab029_String_toChar_Cov.py</url>
           <line>17</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/120624/Task_Fibonacci.py</url>
+          <url>file://$PROJECT_DIR$/June/120624/Task_Fibonacci.py</url>
           <line>15</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/140624/Lab064.py</url>
+          <url>file://$PROJECT_DIR$/June/140624/Lab064.py</url>
           <line>12</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/170624/Lab077.py</url>
+          <url>file://$PROJECT_DIR$/June/170624/Lab077.py</url>
           <line>7</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/170624/Lab077.py</url>
+          <url>file://$PROJECT_DIR$/June/170624/Lab077.py</url>
           <line>1</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/190624/Lab080.py</url>
+          <url>file://$PROJECT_DIR$/June/190624/Lab080.py</url>
           <line>5</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/190624/Lab080.py</url>
+          <url>file://$PROJECT_DIR$/June/190624/Lab080.py</url>
           <line>6</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/190624/Lab080.py</url>
+          <url>file://$PROJECT_DIR$/June/190624/Lab080.py</url>
           <line>7</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/190624/Lab080.py</url>
+          <url>file://$PROJECT_DIR$/June/190624/Lab080.py</url>
           <line>8</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/190624/Lab080.py</url>
+          <url>file://$PROJECT_DIR$/June/190624/Lab080.py</url>
           <line>9</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/190624/Lab080.py</url>
+          <url>file://$PROJECT_DIR$/June/190624/Lab080.py</url>
           <line>10</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/190624/Lab080.py</url>
+          <url>file://$PROJECT_DIR$/June/190624/Lab080.py</url>
           <line>13</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/190624/Lab080.py</url>
+          <url>file://$PROJECT_DIR$/June/190624/Lab080.py</url>
           <line>2</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/190624/Lab080.py</url>
+          <url>file://$PROJECT_DIR$/June/190624/Lab080.py</url>
           <line>3</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/190624/Lab080.py</url>
+          <url>file://$PROJECT_DIR$/June/190624/Lab080.py</url>
           <line>4</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/190624/Lab080.py</url>
+          <url>file://$PROJECT_DIR$/June/190624/Lab080.py</url>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/190624/Lab080.py</url>
+          <url>file://$PROJECT_DIR$/June/190624/Lab080.py</url>
           <line>11</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/190624/Lab080.py</url>
+          <url>file://$PROJECT_DIR$/June/190624/Lab080.py</url>
           <line>12</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/260624/Lab_class.py</url>
+          <url>file://$PROJECT_DIR$/June/260624/Lab_123_class.py</url>
           <line>26</line>
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/210624/Task_CountVowels.py</url>
+          <url>file://$PROJECT_DIR$/June/210624/Task_CountVowels.py</url>
           <line>12</line>
           <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/June/240624/Lab114.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/July/030724/Exception_3.py</url>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/June/240624/Lab118_Even_fliter.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/June/240624/Lab118_Even_fliter.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/June/240624/Lab121_Recusrion3.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/June/240624/Lab121_Recusrion3.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/June/240624/Lab121_Recusrion3.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/June/240624/Lab121_Recusrion3.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/June/240624/Lab121_Recusrion3.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="33" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
