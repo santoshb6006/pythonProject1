@@ -1,0 +1,2 @@
+class VWOLogin:
+    self.
