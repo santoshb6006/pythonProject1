@@ -4,188 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c96d035e-f4c0-42da-ac83-9e095d306e9e" name="Changes" comment="Dict and tasks on strings">
-      <change afterPath="$PROJECT_DIR$/July/010724/Abstraction_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/010724/Abstraction_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/010724/File_import.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/010724/Hierarchical_Inheritance1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/010724/Hybrid.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/010724/Inheritance2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/010724/Method_Overloading.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/010724/Multilevel_Inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/010724/Multiple_Inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/010724/Polymorphism_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/010724/Polymorphism_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/010724/Single_Inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/010724/santu.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/030724/Exception_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/030724/Exception_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/030724/Exception_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/030724/Exception_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/030724/santu.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June/240624/Lab111.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June/240624/Lab112.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June/240624/Lab113.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June/240624/Lab114.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June/240624/Lab115.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June/240624/Lab116.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June/240624/Lab117.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June/240624/Lab118_Even_fliter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June/240624/Lab119_Map.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June/240624/Lab120_Recursion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June/240624/Lab120_Recusion_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June/240624/Lab121_Recusrion3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June/260624/Lab124.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June/260624/Lab125.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June/260624/Lab126_Calsi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June/260624/Lab127.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June/260624/Lab_122_OOPs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June/280624/Lab128.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June/280624/Lab129.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June/280624/Lab130_Constructor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June/280624/Lab131.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June/280624/Lab132.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June/280624/Lab133.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June/280624/Lab134.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June/Ex-05062024/Inpt_system" afterDir="false" />
+    <list default="true" id="c96d035e-f4c0-42da-ac83-9e095d306e9e" name="Changes" comment="OOPs Concepts">
+      <change afterPath="$PROJECT_DIR$/July/030724/Lab137.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/150724_API_JSON_XML/Lab1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/150724_API_JSON_XML/Lab135.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/150724_API_JSON_XML/Lab136.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/190724/JavaScript.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/220724/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/220724/test_lab1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/220724/test_lab2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/220724/test_lab3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/220724/test_lab4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/240724/test_lab_1reporeques.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/030624/Lab001_Basic.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/030624/Lab001_Basic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/030624/Lab002.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/030624/Lab002.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/050624/Lab003.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/050624/Lab003.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/050624/Lab004.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/050624/Lab004.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/050624/Lab005.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/050624/Lab005.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/050624/Lab006.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/050624/Lab006.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/050624/Lab007.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/050624/Lab007.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/050624/Lab008.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/050624/Lab008.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/050624/Lab009.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/050624/Lab009.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/050624/Lab010.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/050624/Lab010.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/050624/Lab011.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/050624/Lab011.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/050624/Lab012.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/050624/Lab012.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/050624/Lab013.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/050624/Lab013.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/070624/Advance_data_type.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/070624/Advance_data_type.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/070624/Format_String.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/070624/Format_String.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/070624/Lab014.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/070624/Lab014.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/070624/Lab015.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/070624/Lab015.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/070624/Lab016.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/070624/Lab016.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/070624/Lab017.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/070624/Lab017.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/070624/Lab018.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/070624/Lab018.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/070624/Lab019.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/070624/Lab019.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/070624/Lab020.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/070624/Lab020.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/070624/Lab022.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/070624/Lab022.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/070624/Lab023.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/070624/Lab023.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/070624/Lab024.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/070624/Lab024.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/070624/Lab025.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/070624/Lab025.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/070624/Lab026_Str_Slicing.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/070624/Lab026_Str_Slicing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/070624/Lab027_StringRev.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/070624/Lab027_StringRev.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/070624/Lab028.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/070624/Lab028.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/070624/Lab029_String_toChar_Cov.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/070624/Lab029_String_toChar_Cov.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/070624/Lab030_Real_Imag.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/070624/Lab030_Real_Imag.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/070624/Lab031_UserInput.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/070624/Lab031_UserInput.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/070624/Lab032_Real_ImagNum.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/070624/Lab032_Real_ImagNum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/070624/Lab033.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/070624/Lab033.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/070624/Lab034_String_Slice.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/070624/Lab034_String_Slice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/070624/Lab21.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/070624/Lab21.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/070624/Lab_001.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/070624/Lab_001.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/070624/next.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/070624/next.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/106024/Lab035.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/106024/Lab035.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/106024/Lab036.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/106024/Lab036.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/106024/Lab037.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/106024/Lab037.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/106024/Lab038.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/106024/Lab038.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/106024/Lab039.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/106024/Lab039.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/106024/Lab041.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/106024/Lab041.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/106024/Lab042.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/106024/Lab042.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/106024/Lab043.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/106024/Lab043.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/106024/Lab40.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/106024/Lab40.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/106024/Task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/106024/Task_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/106024/Task_1Program.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/106024/Task_1Program.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/106024/Task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/106024/Task_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/120624/Lab044.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/120624/Lab044.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/120624/Lab045.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/120624/Lab045.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/120624/Lab047.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/120624/Lab047.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/120624/Lab048_find Max.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/120624/Lab048_find Max.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/120624/Lab049_area_Circle.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/120624/Lab049_area_Circle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/120624/Lab050.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/120624/Lab050.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/120624/Lab051.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/120624/Lab051.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/120624/Lab052.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/120624/Lab052.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/120624/Lab053.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/120624/Lab053.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/120624/Lab054.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/120624/Lab054.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/120624/Lab46_While_Loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/120624/Lab46_While_Loop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/120624/Lab_Fib_whileloop.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/120624/Lab_Fib_whileloop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/120624/Task_#2.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/120624/Task_#2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/120624/Task_Fact.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/120624/Task_Fact.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/120624/Task_Fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/120624/Task_Fibonacci.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/120624/Task_triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/120624/Task_triangle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/140624/Lab055.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/140624/Lab055.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/140624/Lab056.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/140624/Lab056.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/140624/Lab057.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/140624/Lab057.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/140624/Lab058.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/140624/Lab058.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/140624/Lab059.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/140624/Lab059.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/140624/Lab060.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/140624/Lab060.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/140624/Lab061.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/140624/Lab061.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/140624/Lab062.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/140624/Lab062.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/140624/Lab063.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/140624/Lab063.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/140624/Lab064.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/140624/Lab064.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/140624/Lab065.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/140624/Lab065.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/140624/Lab066.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/140624/Lab066.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/140624/Lab067.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/140624/Lab067.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/170624/Lab068.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/170624/Lab068.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/170624/Lab069.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/170624/Lab069.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/170624/Lab070.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/170624/Lab070.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/170624/Lab071.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/170624/Lab071.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/170624/Lab072.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/170624/Lab072.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/170624/Lab073.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/170624/Lab073.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/170624/Lab074.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/170624/Lab074.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/170624/Lab075.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/170624/Lab075.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/170624/Lab076.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/170624/Lab076.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/170624/Lab077.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/170624/Lab077.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/190624/Function_inner_Outer.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/190624/Function_inner_Outer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/190624/Lab078.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/190624/Lab078.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/190624/Lab079.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/190624/Lab079.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/190624/Lab080.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/190624/Lab080.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/190624/Lab081.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/190624/Lab081.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/190624/Lab082.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/190624/Lab082.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/190624/Lab083.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/190624/Lab083.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/190624/Lab084.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/190624/Lab084.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/190624/Lab085.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/190624/Lab085.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/190624/Lab086.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/190624/Lab086.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/190624/Lab087.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/190624/Lab087.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/190624/Lab088.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/190624/Lab088.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/190624/Lab089.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/190624/Lab089.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/190624/Lab090.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/190624/Lab090.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/210624/Lab091.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/210624/Lab091.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/210624/Lab092.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/210624/Lab092.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/210624/Lab093.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/210624/Lab093.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/210624/Lab094.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/210624/Lab094.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/210624/Lab095.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/210624/Lab095.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/210624/Lab096.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/210624/Lab096.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/210624/Lab097.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/210624/Lab097.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/210624/Lab098.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/210624/Lab098.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/210624/Lab099.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/210624/Lab099.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/210624/Lab100.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/210624/Lab100.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/210624/Lab101.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/210624/Lab101.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/210624/Lab102.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/210624/Lab102.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/210624/Lab103.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/210624/Lab103.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/210624/Lab104.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/210624/Lab104.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/210624/Lab105.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/210624/Lab105.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/210624/Lab106.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/210624/Lab106.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/210624/Lab107.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/210624/Lab107.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/210624/Lab108_type conersion.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/210624/Lab108_type conersion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/210624/Lab109.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/210624/Lab109.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/210624/Lab110.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/210624/Lab110.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/210624/Task_Anagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/210624/Task_Anagram.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/210624/Task_CountVowels.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/210624/Task_CountVowels.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/210624/Task_Palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/210624/Task_Palindrome.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/210624/Task_Right_triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/210624/Task_Right_triangle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/210624/Task_String_Reverse.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/210624/Task_String_Reverse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/240624/Lab10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/260624/Lab_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/260624/Lab_123_class.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/260624/Lab_oops.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/260624/Lab_oops.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex-05062024/DynamicallyTyped.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/Ex-05062024/DynamicallyTyped.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex-05062024/Inpt_system" beforeDir="false" afterPath="$PROJECT_DIR$/July/010724/Abstraction_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex-05062024/Input_File.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/Ex-05062024/Input_File.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex-05062024/Lab002.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/Ex-05062024/Lab002.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex-05062024/Maxof two.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/Ex-05062024/Maxof two.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex-05062024/Rules to create variable.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/Ex-05062024/Rules to create variable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/June/280624/Lab134.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/280624/Lab134.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -231,6 +63,17 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests for PyTest_1.test_addition.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab1.test_addition.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab1.test_div.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab1.test_sub.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab2.test_addition.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab2.test_sun.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab_1reporeques.test_get_single_request_by_id.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab1.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab2.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab_1reporeques.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab_3.py.executor&quot;: &quot;Run&quot;,
     &quot;Python.Abstraction_1.executor&quot;: &quot;Run&quot;,
     &quot;Python.Abstraction_2.executor&quot;: &quot;Run&quot;,
     &quot;Python.Abstraction_3.executor&quot;: &quot;Run&quot;,
@@ -375,6 +218,10 @@
     &quot;Python.Lab131.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab132.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab133.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab134.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab135.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab136.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab137.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab21.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab35_While_Loop.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab40.executor&quot;: &quot;Run&quot;,
@@ -421,131 +268,96 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PycharmProjects\pythonProject\July\150724_API_JSON_XML" />
+      <recent name="C:\Users\user\PycharmProjects\pythonProject\July\220724" />
+      <recent name="C:\Users\user\PycharmProjects\pythonProject\July" />
       <recent name="C:\Users\user\PycharmProjects\pythonProject\July\030724" />
       <recent name="C:\Users\user\PycharmProjects\pythonProject\June" />
-      <recent name="C:\Users\user\PycharmProjects\pythonProject\July" />
-      <recent name="C:\Users\user\PycharmProjects\pythonProject" />
-      <recent name="C:\Users\user\PycharmProjects\pythonProject\106024" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab133">
-    <configuration name="Lab129" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests in test_lab2.py">
+    <configuration name="Python tests for test_lab1.test_sub" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/June/280624" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/July/220724" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/June/280624/Lab129.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_lab1.test_sub&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab130_Constructor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_lab2.test_addition" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/June/280624" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/July/220724" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\user\PycharmProjects\pythonProject\June\280624\Lab130_Constructor.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_lab2.test_addition&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab131" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_lab2.test_sun" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/June/280624" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/July/220724" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/June/280624/Lab131.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_lab2.test_sun&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab132" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_lab_1reporeques.test_get_single_request_by_id" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/June/280624" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/July/240724" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/June/280624/Lab132.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_lab_1reporeques.test_get_single_request_by_id&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab133" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in test_lab2.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/June/280624" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/July/220724" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/June/280624/Lab133.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/July/220724/test_lab2.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab133" />
-        <item itemvalue="Python.Lab132" />
-        <item itemvalue="Python.Lab131" />
-        <item itemvalue="Python.Lab130_Constructor" />
-        <item itemvalue="Python.Lab129" />
+        <item itemvalue="Python tests.Python tests in test_lab2.py" />
+        <item itemvalue="Python tests.Python tests for test_lab2.test_addition" />
+        <item itemvalue="Python tests.Python tests for test_lab2.test_sun" />
+        <item itemvalue="Python tests.Python tests for test_lab1.test_sub" />
+        <item itemvalue="Python tests.Python tests for test_lab_1reporeques.test_get_single_request_by_id" />
       </list>
     </recent_temporary>
   </component>
@@ -653,7 +465,23 @@
       <option name="project" value="LOCAL" />
       <updated>1719747957223</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Dict and tasks on strings">
+      <option name="closed" value="true" />
+      <created>1721054419282</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1721054419282</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Dict and tasks on strings">
+      <option name="closed" value="true" />
+      <created>1721054434782</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1721054434782</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -663,7 +491,8 @@
     <MESSAGE value="Variable and Data Types" />
     <MESSAGE value="String and others" />
     <MESSAGE value="Operators" />
-    <option name="LAST_COMMIT_MESSAGE" value="Operators" />
+    <MESSAGE value="Dict and tasks on strings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dict and tasks on strings" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
